@@ -2,11 +2,12 @@
 <br>
 <br>Welcome to <a href="https://aab.uber.space">"The #AAB-Manifesto"</a> 
 <br>
-<br>this is a cyber/meatspace (text)adventure aka <a href="https://reddit.com/r/arg">ARG</a> 
+<br>this is a playable prototype of a free software cyber/meatspace (text)adventure aka <a href="https://reddit.com/r/arg">ARG</a> 
 <br>
 <br>its beeing updated as the situation develops.
 <br>links may change or disapear
 <br>dis no advice in any form
+<br>u'r welcome to join
 <br>
 <br># can play anytime (retarded diamond handed apes play at 13:12)
 <br>

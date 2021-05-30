@@ -57,6 +57,7 @@
 <br><a href="https://www.welcome-united.org/en/swarming/">Whats swarming?</a>
 <br>
 <br>Rule(s):
+<br>Always read the 101 first.
 <br>Be a nice ape
 <br>Dont Dance Online
 <br>Whenever you hear a song on the playlist, feel free to start dancing :)

@@ -12,7 +12,7 @@
 <br># can play anytime (retarded diamond handed apes play at 13:12)
 <br>
 <br># anywhere 
-<br><a href="https://aab-manifesto.github.io/The-AAB-Manifesto/">(now also on github)</a>
+<br><a href="https://github.com/AAB-Manifesto/The-AAB-Manifesto">(now also on github)</a>
 <br>
 <br># potentially unlimited <a href="https://www.dtcc.com/-/media/Files/Downloads/client-center/DTC/alpha.pdf">spots</a> 
 <br>
